@@ -1,7 +1,7 @@
 # Connect 4 AI Bot Project
 
 ## Overview
-This project combines neural networks, Monte Carlo Tree Search (MCTS), cloud hosting, and interactive web development to build an AI bot that plays Connect 4. Users can interact with the bot through a web-based interface, play games, and analyze the bot's decision-making process.
+This project combines neural networks, Monte Carlo Tree Search (MCTS), cloud hosting, and interactive web development to build an AI bot that plays Connect 4. Users can interact with the bot through a web-based interface, play games, and analyze the bot's decision-making process. Project Link: [https://lazy-similar-sparrow.anvil.app](#)
 
 ## Key Features
 - **Data Generation:** Used MCTS to generate a large, diverse dataset of Connect 4 board states and corresponding optimal moves.
