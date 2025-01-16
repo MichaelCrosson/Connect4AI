@@ -69,7 +69,7 @@ This project combines neural networks, Monte Carlo Tree Search (MCTS), cloud hos
    ```
 
 ## Usage
-- Visit the hosted web app: [MSBA25optim2-{GroupNumber}.anvil.app](#)
+- Visit the hosted web app: [Connect4AI.anvil.app](#)
 - Login using:
   - **Email:** dan
   - **Password:** Optimization1234
