@@ -69,15 +69,10 @@ This project combines neural networks, Monte Carlo Tree Search (MCTS), cloud hos
    ```
 
 ## Usage
-- Visit the hosted web app: [Connect4AI.anvil.app](#)
+- Visit the hosted web app: [https://lazy-similar-sparrow.anvil.app](#)
 - Login using:
   - **Email:** dan
   - **Password:** Optimization1234
 - Play against the bot and view detailed training analysis.
 
-## References
-- [Connect 4 Rules](https://en.wikipedia.org/wiki/Connect_Four)
-- [Monte Carlo Tree Search Resources](https://mcts.netlify.app/)
-- [Anvil Documentation](https://anvil.works/docs/)
-- [AWS Lightsail](https://lightsail.aws.amazon.com/)
 
